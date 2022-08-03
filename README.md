@@ -1,2 +1,2 @@
 Smartbrain-App
-# smartbrain-frotend
+# smartbrain-frontend
